@@ -1,0 +1,19 @@
+{
+  "Clients": {
+      "Metaware": {
+        "description": "Free 1.8 client designed for blatant use on cracked servers such as BlocksMC or Pika Network. Bypass common anticheats with ease.",
+        "version": "b23",
+        "price": 0
+      },  
+      "Atani": {
+        "description": "A free client with premium version designed to bypass even the best anticheats, private or not, on the market. Atani contains bypasses for EVERY server and 1.7-1.19 multiplayer support",
+        "version": "1.0.0",
+        "price": 0
+      },
+      "Shiba": {
+        "description": "An exploit client designed to run on the latest version while supporting all past versions. Shiba has features such as premium server crashers and latest exploits",
+        "version": "Coming Soon!",
+        "price": 9999
+      }
+  }
+}
