@@ -2,7 +2,7 @@
   "Accounts":{
     "Tabio":{
       "UID": "001",
-      "HWID": null,
+      "HWID": "80f9ed07d474047c6b06c85b244f156bcb4d470c91545b7149d166fb8eca09a1",
       "Rank": "Owner",
       "Owns": [
         "Atani",
