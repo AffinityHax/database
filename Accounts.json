@@ -1,0 +1,13 @@
+{
+  "Accounts":{
+    "Tabio":{
+      "UID": "001",
+      "HWID": null,
+      "Rank": "Owner",
+      "Owns": [
+        "Atani",
+        "Shiba"
+      ]
+    }
+  }
+}
